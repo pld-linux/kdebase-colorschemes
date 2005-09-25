@@ -1,12 +1,12 @@
 Summary:	Collection of additional color schemes for KDE
 Summary(pl):	Kolekcja dodatkowych schematów kolorów dla KDE
 Name:		kdebase-colorschemes
-Version:	050620
+Version:	050926
 Release:	1
 License:	Mixed (some are GPL, some LGPL, some BSD, but all opensource)
 Group:		Themes
 Source0:	%{name}.tar.bz2
-# Source0-md5:	66d7224c7f3c0fd10d5f925bc4ce43a6
+# Source0-md5:	7e037aee4bce23b85f995f632a3164cf
 Requires:	kdebase-core
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
