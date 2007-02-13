@@ -1,5 +1,5 @@
 Summary:	Collection of additional color schemes for KDE
-Summary(pl.UTF-8):   Kolekcja dodatkowych schematów kolorów dla KDE
+Summary(pl.UTF-8):	Kolekcja dodatkowych schematów kolorów dla KDE
 Name:		kdebase-colorschemes
 Version:	050926
 Release:	1
